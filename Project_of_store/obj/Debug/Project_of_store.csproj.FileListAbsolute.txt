@@ -1,0 +1,356 @@
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Project_of_store.exe.config
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Project_of_store.exe
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Project_of_store.pdb
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.Licensing.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.Utils.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.csproj.AssemblyReference.cache
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.csproj.SuggestedBindingRedirects.cache
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.FrmMain.resources
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Properties.Resources.resources
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.csproj.GenerateResource.cache
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.exe.licenses
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.csproj.CoreCompileInputs.cache
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.csproj.CopyComplete
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.exe
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.pdb
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Guna.UI.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Components.Widge.resources
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Form1.resources
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Монитор 1.png
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Monitor.resources
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Acer Nitro KG242YPbmiipx.png
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\AOC E970SWN.png
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Philips 242E1GAJ.png
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Philips 24M1N3200VS.png
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Samsung C24RG50FZI.png
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Mouse.resources
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Logitech B100.png
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Logitech G102 LIGHTSYNC.png
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Logitech G502 HERO.png
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Logitech PRO X SUPERLIGHT.png
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Razer DeathAdder Essential.png
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Headphones.resources
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Logitechh G PRO X Wireless.png
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Razerh Kraken X Lite.png
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Razerh2 Barracuda X.png
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Razerh3 Blackshark V2 X.png
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\ZET GAMING Edge.png
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Dark Project KD87A Gateron Teal Cap.png
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Logitechk G413 TKL SE.png
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Razerk BlackWidow V3.png
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\ZETk GAMING Blade.png
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Keyboard.resources
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Registr.resources
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.exe.config
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\MySql.Data.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Google.Protobuf.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\ZstdNet.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\BouncyCastle.Crypto.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\System.Memory.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\System.Buffers.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\K4os.Compression.LZ4.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\K4os.Hash.xxHash.dll
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\bin\Debug\MySql.Data.xml
+D:\Education\Программирование\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.PayForm.resources
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Acer Nitro KG242YPbmiipx.png
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\AOC E970SWN.png
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Dark Project KD87A Gateron Teal Cap.png
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Logitech B100.png
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Logitech G102 LIGHTSYNC.png
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Logitech G502 HERO.png
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Logitech PRO X SUPERLIGHT.png
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Logitechh G PRO X Wireless.png
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Logitechk G413 TKL SE.png
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Philips 242E1GAJ.png
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Philips 24M1N3200VS.png
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Razerk BlackWidow V3.png
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Razer DeathAdder Essential.png
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Razerh Kraken X Lite.png
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Razerh2 Barracuda X.png
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Razerh3 Blackshark V2 X.png
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Samsung C24RG50FZI.png
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\ZET GAMING Edge.png
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\ZETk GAMING Blade.png
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Монитор 1.png
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Project_of_store.exe.config
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Project_of_store.exe
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Project_of_store.pdb
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.Licensing.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.Utils.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Google.Protobuf.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\ZstdNet.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\BouncyCastle.Crypto.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\System.Memory.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\System.Buffers.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\K4os.Compression.LZ4.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\K4os.Hash.xxHash.dll
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\bin\Debug\MySql.Data.xml
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.csproj.AssemblyReference.cache
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.csproj.SuggestedBindingRedirects.cache
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.exe.config
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Components.Widge.resources
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.PayForm.resources
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Form1.resources
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Headphones.resources
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Keyboard.resources
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Registr.resources
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Mouse.resources
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Monitor.resources
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.FrmMain.resources
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Properties.Resources.resources
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.csproj.GenerateResource.cache
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.exe.licenses
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.csproj.CoreCompileInputs.cache
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.csproj.CopyComplete
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.exe
+D:\Education\Программирование\1 семестр 3 курс\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.pdb
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Acer Nitro KG242YPbmiipx.png
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\AOC E970SWN.png
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Dark Project KD87A Gateron Teal Cap.png
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Logitech B100.png
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Logitech G102 LIGHTSYNC.png
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Logitech G502 HERO.png
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Logitech PRO X SUPERLIGHT.png
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Logitechh G PRO X Wireless.png
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Logitechk G413 TKL SE.png
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Philips 242E1GAJ.png
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Philips 24M1N3200VS.png
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Razerk BlackWidow V3.png
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Razer DeathAdder Essential.png
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Razerh Kraken X Lite.png
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Razerh2 Barracuda X.png
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Razerh3 Blackshark V2 X.png
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Samsung C24RG50FZI.png
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\ZET GAMING Edge.png
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\ZETk GAMING Blade.png
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\icons\Монитор 1.png
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Project_of_store.exe.config
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Project_of_store.exe
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Project_of_store.pdb
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.Licensing.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.Utils.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Google.Protobuf.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\ZstdNet.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\BouncyCastle.Crypto.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\System.Memory.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\System.Buffers.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\K4os.Compression.LZ4.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\K4os.Hash.xxHash.dll
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\bin\Debug\MySql.Data.xml
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.csproj.AssemblyReference.cache
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.csproj.SuggestedBindingRedirects.cache
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.exe.config
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Components.Widge.resources
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.PayForm.resources
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Form1.resources
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Headphones.resources
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Keyboard.resources
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Registr.resources
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Mouse.resources
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Monitor.resources
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.FrmMain.resources
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.Properties.Resources.resources
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.csproj.GenerateResource.cache
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.exe.licenses
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.csproj.CoreCompileInputs.cache
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.csproj.CopyComplete
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.exe
+D:\Education\БД\Второй семестр\9\Project_of_store\Project_of_store\Project_of_store\obj\Debug\Project_of_store.pdb
